@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @seayuns
-
+- 👋 Hi, I’m @seayun
